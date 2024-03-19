@@ -7,3 +7,15 @@
 //
 
 import Foundation
+
+
+struct StoryNode {
+    let id: String
+    let text: String
+    let choices: [Choice]
+}
+
+struct Choice {
+    let text: String
+    let destinationNodeId: String
+}

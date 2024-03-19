@@ -1,0 +1,25 @@
+# Xcode
+.DS_Store
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+project.xcworkspace/
+
+# Built application & Derived Data
+*.app
+*.ipa
+*.archive
+DerivedData/
+
+# OS X
+._*
+.Spotlight-V100
+.Trashes
+
+# User settings
+*.moved-aside
+*.pbxuser
+*.perspectivev*
+*.swp
+*~
+
